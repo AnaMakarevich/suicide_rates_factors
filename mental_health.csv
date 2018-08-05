@@ -20,7 +20,7 @@ Belgium,0.64
 Belize,0
 Benin,0.02
 Bhutan,0
-Bolivia (Plurinational State of),0.09
+Bolivia,0.09
 Bosnia and Herzegovina,0.16
 Botswana,0.1
 Brazil,0.11
@@ -41,7 +41,7 @@ Comoros,0
 Congo,0
 Cook Islands,0
 Costa Rica,0.04
-Côte d'Ivoire,0.01
+Cote d'Ivoire,0.01
 Croatia,0.16
 Cuba,0.21
 Cyprus,0.11
@@ -80,7 +80,7 @@ Hungary,0.03
 Iceland,
 India,0
 Indonesia,0.02
-Iran (Islamic Republic of),0.05
+Iran,0.05
 Iraq,0.01
 Ireland,0.78
 Israel,0.19
@@ -93,7 +93,7 @@ Kenya,
 Kiribati,1
 Kuwait,0.03
 Kyrgyzstan,0.09
-Lao People's Democratic Republic,0
+Laos,0
 Latvia,0.27
 Lebanon,0.07
 Lesotho,0.05
@@ -111,7 +111,7 @@ Marshall Islands,0
 Mauritania,0.03
 Mauritius,0.08
 Mexico,0.04
-Micronesia (Federated States of),0
+Micronesia,0
 Monaco,0
 Mongolia,0.04
 Montenegro,0.48
@@ -139,7 +139,7 @@ Philippines,0
 Poland,0.14
 Portugal,0.06
 Qatar,0.07
-Republic of Korea,2.54
+Korea,2.54
 Republic of Moldova,0.08
 Romania,0.18
 Russian Federation,0.26
@@ -171,7 +171,7 @@ Switzerland,0.79
 Syrian Arab Republic,0.02
 Tajikistan,0.21
 Thailand,0.03
-The former Yugoslav republic of Macedonia,0.2
+Macedonia,0.2
 Timor-Leste,
 Togo,0.01
 Tonga,0.96
@@ -183,14 +183,14 @@ Tuvalu,
 Uganda,0
 Ukraine,0.19
 United Arab Emirates,0.02
-United Kingdom of Great Britain and Northern Ireland,
-United Republic of Tanzania,0
-United States of America,0.25
+United Kingdom,
+Tanzania,0
+USA,0.25
 Uruguay,
 Uzbekistan,0.04
 Vanuatu,0
-Venezuela (Bolivarian Republic of),
-Viet Nam,0.04
+Venezuela,
+Vietnam,0.04
 Yemen,0.02
 Zambia,0.01
 Zimbabwe,0.03
