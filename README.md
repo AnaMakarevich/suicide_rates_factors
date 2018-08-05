@@ -5,7 +5,7 @@ This repository is for hacathon on Women Healthcare held at Udacity on Aug, 4 - 
 The team consists of 5 people (in alphabetical order): 
 - Ana Makarevich (<a href="https://github.com/AnaMakarevich" target="_blank">GitHub</a>)
 - Isra Khan (<a href="https://github.com/Issy90" target="_blank">GitHub</a>)
-- Mervet Kuchkarova
+- Mervet Kuchkarova <a href="https://github.com/izidao" target="_blank">GitHub</a>
 - Valentina Atanassova <a href="https://github.com/Valentina-A" target="_blank">GitHub</a>)
 - Weronika Kensbok (<a href="https://github.com/Weronika-k" target="_blank">GitHub</a>)
 
