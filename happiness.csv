@@ -1,0 +1,238 @@
+,country,satisfaction_index
+69,Afghanistan,3.982854605
+175,Albania,4.606650829
+247,Algeria,
+455,Angola,
+598,Antigua and Barbuda,
+625,Arab World,
+747,Argentina,6.69713068
+816,Armenia,4.34831953
+1081,Australia,7.309060574
+1280,Austria,7.07644701
+1349,Azerbaijan,5.146774769
+1428,Bahamas,
+1499,Bahrain,6.00737524
+1574,Bangladesh,4.633473873
+1652,Barbados,
+1721,Belarus,5.718907833
+1920,Belgium,6.904219151
+1998,Belize,
+2067,Benin,3.624664307
+2216,Bhutan,5.082128525
+2337,Bolivia,5.834329128
+2406,Bosnia and Herzegovina,5.117177963
+2479,Botswana,3.761964798
+2630,Brazil,6.546896935
+2777,Brunei,
+2883,Bulgaria,4.865401268
+2952,Burkina Faso,4.418930054
+3021,Burundi,
+3092,Cambodia,4.162164688
+3164,Cameroon,5.037964821
+3318,Canada,7.412772655
+3387,Cape Verde,
+3414,Caribbean small states,
+3554,Central African Republic,
+3581,Central Europe and the Baltics,
+3650,Chad,4.322675228
+3848,Chile,6.532749653
+4047,China,5.303877831
+4196,Colombia,6.387571812
+4265,Comoros,
+4334,Congo,4.690830231
+4512,Costa Rica,6.854004383
+4581,Cote d'Ivoire,4.445038795
+4650,Croatia,5.205438137
+4850,Cyprus,5.439161301
+4919,Czech Republic,6.608017445
+4988,Democratic Republic of Congo,3.902741671
+5187,Denmark,7.514424801
+5256,Djibouti,
+5333,Dominica,
+5454,Dominican Republic,5.061862469
+5481,Early-demographic dividend,
+5508,East Asia & Pacific,
+5535,East Asia & Pacific (IDA & IBRD),
+5562,East Asia & Pacific (excluding high income),
+5683,Ecuador,5.964075089
+5755,Egypt,4.762538433
+5847,El Salvador,6.018496037
+5919,Equatorial Guinea,
+6054,Estonia,5.628908634
+6123,Ethiopia,4.573154926
+6150,Euro area,
+6177,Europe & Central Asia,
+6204,Europe & Central Asia (IDA & IBRD),
+6231,Europe & Central Asia (excluding high income),
+6258,European Union,
+6403,Fiji,
+6602,Finland,7.447925568
+6629,Fragile and conflict affected situations,
+6828,France,6.357625008
+7036,Gabon,4.66101265
+7105,Gambia,
+7174,Georgia,4.121940613
+7373,Germany,7.037137508
+7444,Ghana,3.985916138
+7709,Greece,5.622519016
+7853,Grenada,
+8114,Guatemala,6.464986801
+8244,Guinea,3.504693508
+8313,Guinea-Bissau,
+8382,Guyana,
+8503,Haiti,3.569762468
+8530,Heavily indebted poor countries (HIPC),
+8557,High income,
+8680,Honduras,4.845436573
+8786,Hong Kong,
+8892,Hungary,5.34438324
+8919,IBRD only,
+8946,IDA & IBRD total,
+8973,IDA blend,
+9000,IDA only,
+9027,IDA total,
+9096,Iceland,7.498070717
+9174,India,4.342079163
+9373,Indonesia,5.04279995
+9445,Iran,4.749955654
+9517,Iraq,4.493377209
+9716,Ireland,6.830125332
+9908,Israel,7.07941103
+10107,Italy,5.847683907
+10228,Jamaica,
+10427,Japan,5.879684448
+10559,Jordan,5.404593468
+10628,Kazakhstan,5.949995041
+10699,Kenya,4.357617855
+10768,Kiribati,
+10785,Kosovo,5.077460766
+10856,Kuwait,6.146031857
+10925,Kyrgyzstan,4.905375957
+10996,Laos,
+11023,Late-demographic dividend,
+11050,Latin America & Caribbean,
+11077,Latin America & Caribbean (IDA & IBRD),
+11104,Latin America & Caribbean (excluding high income),
+11173,Latvia,5.880597591
+11200,Least developed countries: UN classification,
+11271,Lebanon,5.171971321
+11340,Lesotho,
+11409,Liberia,2.701591253
+11478,Libya,5.615404606
+11613,Lithuania,5.711378098
+11640,Low & middle income,
+11667,Low income,
+11694,Lower middle income,
+11763,Luxembourg,6.701571465
+11840,Macao,
+11909,Macedonia,4.975589752
+11979,Madagascar,3.592514038
+12053,Malawi,3.86763835
+12175,Malaysia,6.322121143
+12248,Maldives,
+12317,Mali,4.582098484
+12386,Malta,6.61339426
+12455,Marshall Islands,
+12590,Mauritania,3.922664165
+12669,Mauritius,
+12886,Mexico,6.236287117
+12913,Micronesia (country),
+12940,Middle East & North Africa,
+12967,Middle East & North Africa (IDA & IBRD),
+12993,Middle East & North Africa (excluding high income),
+13019,Middle income,
+13088,Moldova,6.017472267
+13225,Mongolia,4.982719898
+13294,Montenegro,5.124921322
+13441,Morocco,5.163156986
+13511,Mozambique,4.549767494
+13625,Myanmar,4.223846436
+13695,Namibia,
+13764,Nauru,
+13838,Nepal,4.812436581
+14037,Netherlands,7.324437141
+14257,New Zealand,7.418120861
+14378,Nicaragua,5.924112797
+14447,Niger,3.671453714
+14518,Nigeria,4.932914734
+14628,North America,
+14701,Northern Cyprus,5.842550278
+14966,Norway,7.603433609
+14993,OECD members,
+15064,Oman,
+15080,Other small states,
+15107,Pacific island small states,
+15182,Pakistan,4.823194981
+15251,Palau,
+15274,Palestine,4.695239067
+15395,Panama,6.605550289
+15583,Paraguay,5.559724331
+15710,Peru,5.577263355
+15832,Philippines,5.547489166
+15957,Poland,6.007021904
+16156,Portugal,5.080866337
+16183,Post-demographic dividend,
+16210,Pre-demographic dividend,
+16405,Qatar,6.374529362
+16577,Romania,5.777491093
+16646,Russian Federation,5.995538712
+16715,Rwanda,3.483108997
+16860,Saint Kitts and Nevis,
+16937,Saint Lucia,
+17016,Saint Vincent and the Grenadines,
+17093,Samoa,
+17228,Sao Tome and Principe,
+17299,Saudi Arabia,6.345491886
+17368,Senegal,4.61700058
+17437,Serbia,5.317685127
+17511,Seychelles,
+17580,Sierra Leone,4.908617973
+17685,Singapore,6.619524956
+17755,Slovakia,6.162004471
+17824,Slovenia,5.740642071
+17841,Small states,
+17911,Solomon Islands,
+17981,Somalia,5.353644848
+18057,South Africa,4.887325764
+18084,South Asia,
+18111,South Asia (IDA & IBRD),
+18224,South Korea,5.780211449
+18294,South Sudan,4.070771217
+18493,Spain,6.380663395
+18643,Sri Lanka,4.611606598
+18670,Sub-Saharan Africa,
+18697,Sub-Saharan Africa (IDA & IBRD),
+18724,Sub-Saharan Africa (excluding high income),
+18794,Sudan,
+18863,Suriname,
+18936,Swaziland,
+19171,Sweden,7.28892231
+19370,Switzerland,7.572136879
+19440,Syria,3.46191287
+19561,Taiwan,6.450088024
+19630,Tajikistan,5.124210835
+19702,Tanzania,3.660597324
+19824,Thailand,6.201762676
+19842,Timor,
+19910,Togo,3.768301964
+20056,Tonga,
+20177,Trinidad and Tobago,
+20249,Tunisia,5.131611824
+20348,Turkey,5.514465332
+20417,Turkmenistan,5.791460037
+20559,Tuvalu,
+20632,Uganda,4.237686634
+20701,Ukraine,3.964542866
+20772,United Arab Emirates,6.568397522
+20975,United Kingdom,6.515445232
+21174,USA,6.863946915
+21201,Upper middle income,
+21351,Uruguay,6.628080368
+21420,Uzbekistan,5.972364426
+21489,Vanuatu,
+21639,Venezuela,5.568800449
+21710,Vietnam,5.076315403
+21803,World,
+21830,Yemen,2.982673883
+21902,Zambia,4.843164444
+21971,Zimbabwe,3.70319128
