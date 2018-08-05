@@ -1,6 +1,6 @@
 country,satisfaction_index
 Afghanistan,3.982854605
-Albania,4.6066508289999994
+Albania,4.606650829
 Algeria,
 Angola,
 Antigua and Barbuda,
@@ -9,18 +9,18 @@ Argentina,6.69713068
 Armenia,4.34831953
 Australia,7.309060574
 Austria,7.07644701
-Azerbaijan,5.146774768999999
+Azerbaijan,5.146774769
 Bahamas,
 Bahrain,6.00737524
 Bangladesh,4.633473873
 Barbados,
-Belarus,5.718907832999999
+Belarus,5.718907833
 Belgium,6.904219151
 Belize,
-Benin,3.6246643069999998
+Benin,3.624664307
 Bhutan,5.082128525
-Bolivia,5.834329127999999
-Bosnia and Herzegovina,5.1171779630000005
+Bolivia,5.834329128
+Bosnia and Herzegovina,5.117177963
 Botswana,3.761964798
 Brazil,6.546896935
 Brunei,
@@ -30,32 +30,32 @@ Burundi,
 Cambodia,4.162164688
 Cameroon,5.037964821
 Canada,7.412772655
-Cape Verde,
+Cabo Verde,
 Caribbean small states,
 Central African Republic,
 Central Europe and the Baltics,
-Chad,4.3226752280000005
+Chad,4.322675228
 Chile,6.532749653
 China,5.303877831
-Colombia,6.387571812000001
+Colombia,6.387571812
 Comoros,
-Congo,4.6908302310000005
-Costa Rica,6.8540043829999995
+Congo,4.690830231
+Costa Rica,6.854004383
 Cote d'Ivoire,4.445038795
 Croatia,5.205438137
 Cyprus,5.439161301
 Czech Republic,6.608017445
-Democratic Republic of Congo,3.9027416710000002
-Denmark,7.5144248010000005
+Democratic Republic of Congo,3.902741671
+Denmark,7.514424801
 Djibouti,
 Dominica,
-Dominican Republic,5.061862468999999
+Dominican Republic,5.061862469
 Early-demographic dividend,
 East Asia & Pacific,
 East Asia & Pacific (IDA & IBRD),
 East Asia & Pacific (excluding high income),
 Ecuador,5.964075089
-Egypt,4.7625384330000005
+Egypt,4.762538433
 El Salvador,6.018496037
 Equatorial Guinea,
 Estonia,5.628908634
@@ -68,12 +68,12 @@ European Union,
 Fiji,
 Finland,7.447925568
 Fragile and conflict affected situations,
-France,6.357625007999999
+France,6.357625008
 Gabon,4.66101265
 Gambia,
-Georgia,4.1219406130000005
+Georgia,4.121940613
 Germany,7.037137508
-Ghana,3.9859161380000003
+Ghana,3.985916138
 Greece,5.622519016
 Grenada,
 Guatemala,6.464986801
@@ -96,7 +96,7 @@ India,4.342079163
 Indonesia,5.04279995
 Iran,4.749955654
 Iraq,4.493377209
-Ireland,6.830125332000001
+Ireland,6.830125332
 Israel,7.07941103
 Italy,5.847683907
 Jamaica,
@@ -105,9 +105,9 @@ Jordan,5.404593468
 Kazakhstan,5.949995041
 Kenya,4.357617855
 Kiribati,
-Kosovo,5.077460766000001
-Kuwait,6.1460318570000005
-Kyrgyzstan,4.9053759569999995
+Kosovo,5.077460766
+Kuwait,6.146031857
+Kyrgyzstan,4.905375957
 Laos,
 Late-demographic dividend,
 Latin America & Caribbean,
@@ -128,35 +128,35 @@ Macao,
 Macedonia,4.975589752
 Madagascar,3.592514038
 Malawi,3.86763835
-Malaysia,6.3221211429999995
+Malaysia,6.322121143
 Maldives,
-Mali,4.582098483999999
+Mali,4.582098484
 Malta,6.61339426
 Marshall Islands,
 Mauritania,3.922664165
 Mauritius,
-Mexico,6.236287117000001
+Mexico,6.236287117
 Micronesia (country),
 Middle East & North Africa,
 Middle East & North Africa (IDA & IBRD),
 Middle East & North Africa (excluding high income),
 Middle income,
-Moldova,6.0174722670000005
+Moldova,6.017472267
 Mongolia,4.982719898
 Montenegro,5.124921322
-Morocco,5.163156986000001
+Morocco,5.163156986
 Mozambique,4.549767494
-Myanmar,4.2238464360000005
+Myanmar,4.223846436
 Namibia,
 Nauru,
 Nepal,4.812436581
-Netherlands,7.324437141000001
+Netherlands,7.324437141
 New Zealand,7.418120861
 Nicaragua,5.924112797
-Niger,3.6714537139999996
+Niger,3.671453714
 Nigeria,4.932914734
 North America,
-Northern Cyprus,5.842550277999999
+Northern Cyprus,5.842550278
 Norway,7.603433609
 OECD members,
 Oman,
@@ -173,16 +173,16 @@ Poland,6.007021904
 Portugal,5.080866337
 Post-demographic dividend,
 Pre-demographic dividend,
-Qatar,6.3745293620000005
-Romania,5.777491092999999
-Russia,5.995538712
+Qatar,6.374529362
+Romania,5.777491093
+Russian Federation,5.995538712
 Rwanda,3.483108997
 Saint Kitts and Nevis,
 Saint Lucia,
 Saint Vincent and the Grenadines,
 Samoa,
 Sao Tome and Principe,
-Saudi Arabia,6.3454918860000005
+Saudi Arabia,6.345491886
 Senegal,4.61700058
 Serbia,5.317685127
 Seychelles,
@@ -196,7 +196,7 @@ Somalia,5.353644848
 South Africa,4.887325764
 South Asia,
 South Asia (IDA & IBRD),
-South Korea,5.780211448999999
+Korea,5.780211449
 South Sudan,4.070771217
 Spain,6.380663395
 Sri Lanka,4.611606598
@@ -207,9 +207,9 @@ Sudan,
 Suriname,
 Swaziland,
 Sweden,7.28892231
-Switzerland,7.572136878999999
+Switzerland,7.572136879
 Syria,3.46191287
-Taiwan,6.450088023999999
+Taiwan,6.450088024
 Tajikistan,5.124210835
 Tanzania,3.660597324
 Thailand,6.201762676
@@ -222,15 +222,15 @@ Turkey,5.514465332
 Turkmenistan,5.791460037
 Tuvalu,
 Uganda,4.237686634
-Ukraine,3.9645428660000004
-United Arab Emirates,6.568397522000001
+Ukraine,3.964542866
+United Arab Emirates,6.568397522
 United Kingdom,6.515445232
-United States,6.863946915
+USA,6.863946915
 Upper middle income,
-Uruguay,6.628080367999999
+Uruguay,6.628080368
 Uzbekistan,5.972364426
 Vanuatu,
-Venezuela,5.568800448999999
+Venezuela,5.568800449
 Vietnam,5.076315403
 World,
 Yemen,2.982673883
